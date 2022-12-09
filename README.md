@@ -21,7 +21,7 @@
 
 ## 이미지 참조(스크린 샷)
 <img src="https://imgs2.dab3games.com/tic-tac-toe-game.png"/>
-(https://user-images.githubusercontent.com/119272401/206651084-c3adc2de-f9af-45c1-a066-851f1b5b5a4b.png)
-(https://user-images.githubusercontent.com/119272401/206651203-f83476e0-9cb3-49cd-b66d-aa2f43dee40d.png)
-(https://user-images.githubusercontent.com/119272401/206651283-fb8b985d-f6c6-4a25-a8b8-c2dbde45e2df.png)
-(https://user-images.githubusercontent.com/119272401/206651247-b35f1f39-20fa-446e-8fca-1c96cce08500.png)
+1. (https://user-images.githubusercontent.com/119272401/206651084-c3adc2de-f9af-45c1-a066-851f1b5b5a4b.png)
+1. (https://user-images.githubusercontent.com/119272401/206651203-f83476e0-9cb3-49cd-b66d-aa2f43dee40d.png)
+1. (https://user-images.githubusercontent.com/119272401/206651283-fb8b985d-f6c6-4a25-a8b8-c2dbde45e2df.png)
+1. (https://user-images.githubusercontent.com/119272401/206651247-b35f1f39-20fa-446e-8fca-1c96cce08500.png)
