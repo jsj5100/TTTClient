@@ -21,4 +21,4 @@
 
 ## 이미지 참조(스크린 샷)
 <img src="https://imgs2.dab3games.com/tic-tac-toe-game.png"/>
-![image](https://user-images.githubusercontent.com/119272401/206651084-c3adc2de-f9af-45c1-a066-851f1b5b5a4b.png)
+(https://user-images.githubusercontent.com/119272401/206651084-c3adc2de-f9af-45c1-a066-851f1b5b5a4b.png)
